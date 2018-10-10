@@ -1,0 +1,16 @@
+/* 
+  en_us.strings
+  LocationTest
+
+  Created by Saeed Dehshiri on 10/5/18.
+  Copyright © 2018 Saeed Dehshiri. All rights reserved.
+*/
+
+"CL.Tab.CarList" = "Car List";
+"CL.Tab.CarList.Title" = "Car List";
+"CL.Tab.CarMap" = "Map";
+"CL.Tab.CarMap.Title" = "Map";
+
+"CL.Car.Exterior" = "Exterior";
+"CL.Car.Interior" = "Interior";
+"CL.Car.EngineType" = "Engine Type";
