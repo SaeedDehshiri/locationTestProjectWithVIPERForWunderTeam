@@ -1,6 +1,6 @@
 # Dedicated to Wunder company with Swift 4.0 by [Saeed Dehshiri](https://dehshiri.com)
 
-I had been starting develop for Wunder team in germany since 27. Sep. to today. I enjoy to find new friend in that compoany and I feel like a million dollares. This project is a test preject for Wunder team for assessment my knowledge in programming as well as this test my speed in project. I explain important content in below:
+I had been starting develop for test project in Wunder team in germany since 27 Sep to 10 OCT. I enjoy to find new friend in that compony and I feel like a million dollars. This project is a test project for Wunder LLC for assessing my knowledge in programming as well as this testing my speed in project. I explain important contents below:
 
 # Design Pattern
 I was using VIPER architecture for this project because VIPER easy to initial business logis and easy to extent and test.
@@ -28,4 +28,4 @@ Realm: For persist json data in database. Using realm database because realm is 
 
 ## License
 
-dedicated to wunder company with Swift 4.0 is released under the MIT license.
+dedicated to Wunder LLC with Swift 4.0 is released under the MIT license.
